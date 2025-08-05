@@ -1,2 +1,8 @@
 {
+  "portfolio_template_backend": {
+    "ic": "hrkit-7aaaa-aaaas-qblrq-cai"
+  },
+  "portfolio_template_frontend": {
+    "ic": "henz6-6iaaa-aaaas-qblsa-cai"
+  }
 }
